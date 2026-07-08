@@ -1,5 +1,4 @@
-# MedDecisionAI
-MedDecisionAI is an open-source clinical decision support project that combines medical reasoning, guideline-based workflows, and AI-assisted analysis to help physicians make safer, more structured, evidence-informed decisions.
+
 # MedDecisionAI
 
 MedDecisionAI is an open-source AI-assisted clinical decision support project designed to help physicians structure medical reasoning, evaluate differential diagnoses, and support evidence-informed clinical and surgical decision workflows.
